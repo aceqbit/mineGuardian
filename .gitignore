@@ -1,0 +1,23 @@
+# Node.js
+node_modules/
+backend/node_modules/
+backend/.env
+npm-debug.log*
+
+# Flutter
+.dart_tool/
+mobile/.dart_tool/
+mobile/build/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+*.lock
+
+# OS & IDE
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
+*.iml
